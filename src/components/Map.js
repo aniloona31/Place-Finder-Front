@@ -16,7 +16,7 @@ function Map() {
 const WrappedMap = withScriptjs(withGoogleMap(Map));
 
 function GMap() {
-    const key = "AIzaSyDbvws_y9GQ3V8xwySS7oPRebA34MMCKYM";
+    const key = "";
     return (
         <div className='top-20' style={{height:'100vh', width:'100vw'}}>
             {/* add API key here */}
